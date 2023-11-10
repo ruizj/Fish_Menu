@@ -15,3 +15,8 @@ Tipo de menú: Pescado
 		-Rape a la plancha
 		-Salmon al horno con patatas
 		-Merluza a la marinera
+
+	Postres:
+		- Coulant de chocolate
+		- Taten de manzana con helado de vainilla
+		- Mousse de limón
