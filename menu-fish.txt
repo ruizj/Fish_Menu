@@ -10,3 +10,13 @@ Tipo de menú: Pescado
 		- Carabineros a la sal
 		- Ravioli de mango, langostinos y crispy de yogur
 		- Navajas a la parrilla con anchoas y lima-limón
+
+	Platos Principales:
+		-Rape a la plancha
+		-Salmon al horno con patatas
+		-Merluza a la marinera
+
+	Postres:
+		- Coulant de chocolate
+		- Taten de manzana con helado de vainilla
+		- Mousse de limón
